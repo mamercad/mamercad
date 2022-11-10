@@ -1,3 +1,1 @@
 # Hello, World
-
-<a rel="me" href="https://hachyderm.io/@mamercad">Mastodon</a>
